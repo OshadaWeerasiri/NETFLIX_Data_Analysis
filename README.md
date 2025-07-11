@@ -34,8 +34,14 @@ insightfull analytics using the **Amazon S3**, **Snowflake** and **dbt**.
 - **STAGING** — Cleaned, typed, and normalized data
 - **DEVELOPMENT** — Star schema (facts and dimensions)
 
-✅ **Documentation & Lineage**: Generated via `dbt docs`  
+✅ **Documentation & Lineage**: Generated via `dbt docs` 
+
+![lineage graph](3.png)
+
+![dbt](4.png)
 
 ✅ **Analysis Models**: Created summary tables and exploratory models for reporting
+
+
 
 
