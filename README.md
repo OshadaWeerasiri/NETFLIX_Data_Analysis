@@ -3,6 +3,8 @@
 This project showcase a **modern data engineering pipeline** that transforms raw data into clean,
 insightfull analytics using the **Amazon S3**, **Snowflake** and **dbt**.
 
+![Project view](1751834521194.jpeg)
+
 ## 🔧 Technologies Used
 
 - **Amazon S3** - storage for raw csv files
