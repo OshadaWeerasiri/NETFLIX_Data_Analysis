@@ -14,7 +14,7 @@ insightfull analytics using the **Amazon S3**, **Snowflake** and **dbt**.
 
 ---
 
-##🗂️ Project Architecture
+## 🗂️ Project Architecture
 
 1. **Raw Layer**: Mirrors original MovieLens CSVs from S3  
 2. **Staging Layer**: Applies cleaning, typing, and transformations  
